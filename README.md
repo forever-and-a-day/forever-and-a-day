@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @forever-and-a-day
 - 👀 I’m interested in learning to code in general. Started on JS (not very good imao) thinking of trying out python...
 - 🌱 I’m currently learning python on/off
-- 💞️ I’m looking to collaborate on noting atm.
+- 💞️ I’m looking to collaborate on nothing atm.
 - 📫 How to reach me: forever-and-a-day#3000 on discord
 
 <!---
